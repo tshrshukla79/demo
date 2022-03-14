@@ -1,3 +1,8 @@
 testing first commit
 
-very bad update
+<<<<<<< HEAD
+
+=======
+
+this is testing
+>>>>>>> very-bad
